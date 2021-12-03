@@ -9,7 +9,7 @@
      "buildNumber": "1.0.0"
    },
    "android": {
-     "package": "com.ffos.zadaca8",
+    "package": "com.danijela.zadaca",
      "versionCode": 1
    }
   }
