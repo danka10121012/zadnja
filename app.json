@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "Zadaca8",
+   "icon": "assets/adaptive-icon.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "ios": {
+     "bundleIdentifier": "com.ffos.zadaca8",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.ffos.zadaca8",
+     "versionCode": 1
+   }
+  }
+}
